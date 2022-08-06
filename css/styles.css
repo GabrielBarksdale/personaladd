@@ -1,0 +1,98 @@
+/*<Html>Background use ID=*/
+	#my-background {
+		background-color: coral;
+	}
+
+	/*cursor*/
+		
+	/*H1*/
+		h1 {
+			margin-bottom: 0px;
+			font-size: 50px;
+			font-family:Impact, Haettenschweiler,
+			 'Arial Narrow Bold', sans-serif;
+			}
+
+	/*HR*/
+		hr {
+			border-width: .2in;
+			border-color:#0abab5;
+		}
+			
+
+/*BODY*/
+	
+	body {
+		margin: 0;
+		height: 100vh;
+		cursor:cell;
+	}	
+
+	.dark {
+	color: black
+	}
+
+	/*DIV*/
+	 #div2 {
+		margin: auto;
+		margin-left: 225px;
+		width:30%;
+		float: left;
+			}
+		
+
+	#div3  {
+		text-align: center;
+		margin: auto;
+		margin-right: 225px;
+		width:20%;
+		float:right;
+			}
+		
+			/*align*/
+				#alignme {
+					text-align:center;
+					font-size: 2em;
+				}
+					
+			/*Section*/
+				section {
+					background-color: #0abab5;
+					border-style:solid;
+					border-radius: 40px ;
+					border-color: ghostwhite;
+					padding: 25px;
+					margin:10px 225px;
+				}
+					
+		/*h3*/
+		#my-h3	{
+			text-align: center;
+			}
+			
+		/*(ul)list*/
+				li {
+					text-align: center;
+					border-color:rgb(112, 192, 235);
+					border-style: outset;
+					padding: 10px;
+					margin: 10px;
+					
+				}
+				
+			li:hover {
+				background-color: aliceblue;
+			}
+				
+	/*img of GabrielB.PNG */
+		.img {
+			border-radius: 80px;
+			height: 250px;
+			width: 125px;
+			border-style:solid;
+			border-radius: 40px ;
+			border-color: white;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+				}
