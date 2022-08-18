@@ -1,6 +1,6 @@
 /*<Html>Background use ID=*/
 	#my-background {
-		background-color: coral;
+		background-color: rgba(7, 112, 143, 0.379);
 	}
 
 	/*cursor*/
@@ -18,8 +18,7 @@
 			border-width: .2in;
 			border-color:#0abab5;
 		}
-			
-
+	
 /*BODY*/
 	
 	body {
@@ -81,7 +80,8 @@
 				}
 				
 			li:hover {
-				background-color: aliceblue;
+				background-color: rgb(237, 226, 194);
+				color: coral;
 			}
 				
 	/*img of GabrielB.PNG */
